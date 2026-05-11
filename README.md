@@ -2,7 +2,7 @@
 # FPGrowth-FraudDetection-ECommerce-Project
 >>> Electronic Commerce - Winter 2025
 
-Note: this ReadMe file is only about Part2
+**Note: this ReadMe file is only about Part2**
 
 ## TASK I: Exploratory Data Analysis (EDA) and Data Preprocessing
 
@@ -20,6 +20,7 @@ In this task, we are responsible for loading, inspecting, and cleaning the raw t
 
 6. **Overall dataset summary and save cleaned data**: Key aggregate statistics are reported, including total unique accounts, total records, fraud vs. normal record counts, fraud percentage, and the class imbalance ratio (Normal/Fraud). The cleaned dataset is saved to `ResultFiles/1_cleaned_fraud_data.csv` for use in subsequent tasks.
 
+--------------------------------------------------------------------------------------------------------------
 
 ## TASK II: Data Visualization and Exploratory Graphical Analysis
 
@@ -42,6 +43,7 @@ In this task, we focus on creating comprehensive visualizations to understand fe
 
 All visualizations are saved to the `ResultFiles/Task2 Plots/` directory as high-resolution PNG files for inclusion in the final report and further analysis.
 
+--------------------------------------------------------------------------------------------------------------
 
 ## TASK III: Fraud Detection Classification
 
