@@ -1,5 +1,5 @@
 ### in the name of Allah
-# FPGrowth-FraudDetection-ECommerce-Project
+# FraudDetection-Classification-ECommerce-Project
 >>> Electronic Commerce - Winter 2025
 
 **Attention: see result files (plots & csv files) in < ResultFiles > folder**
