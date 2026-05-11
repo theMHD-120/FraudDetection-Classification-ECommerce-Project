@@ -2,7 +2,7 @@
 # FPGrowth-FraudDetection-ECommerce-Project
 >>> Electronic Commerce - Winter 2025
 
-**Note: this ReadMe file is only about Part2**
+**Note: this ReadMe file is only about Part2**<br />
 **Attention: see result files (plots & csv files) in <ResultFiles> folder**
 
 ## TASK I: Exploratory Data Analysis (EDA) and Data Preprocessing
