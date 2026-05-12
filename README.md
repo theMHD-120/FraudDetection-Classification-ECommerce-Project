@@ -2,7 +2,7 @@
 # FraudDetection-Classification-ECommerce-Project
 >>> Electronic Commerce - Winter 2025
 
-**Attention: see result files (plots & csv files) in < ResultFiles > folder**
+**Attention: you can view the result files (plots & csv files) in < ResultFiles > folder**
 
 ## TASK I: Exploratory Data Analysis (EDA) and Data Preprocessing
 
