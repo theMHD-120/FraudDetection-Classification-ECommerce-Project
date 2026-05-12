@@ -1,6 +1,6 @@
 ### in the name of Allah
 # FraudDetection-Classification-ECommerce-Project
->>> Electronic Commerce - Winter 2025
+>>> Electronic Commerce - Winter 2026
 
 **Attention: you can view the result files (plots & csv files) in < ResultFiles > folder**
 
